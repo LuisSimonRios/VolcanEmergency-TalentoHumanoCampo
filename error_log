@@ -1,0 +1,4 @@
+[20-Apr-2023 14:05:56 America/Bogota] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/manisiis/public_html/aplicativos/discapacidad/talento_humano_campo/connection.php on line 3
+[20-Apr-2023 14:05:56 America/Bogota] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manisiis/public_html/aplicativos/discapacidad/talento_humano_campo/index.php on line 132
+[20-Apr-2023 14:09:54 America/Bogota] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'manisiis_cancer'@'localhost' to database 'control_talento_humano' in /home/manisiis/public_html/aplicativos/discapacidad/talento_humano_campo/connection.php on line 3
+[20-Apr-2023 14:09:54 America/Bogota] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/manisiis/public_html/aplicativos/discapacidad/talento_humano_campo/index.php on line 132
